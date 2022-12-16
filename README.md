@@ -1,6 +1,7 @@
-# Chase Biller
+# 🏄‍♂️ Chase Biller
 
-**'Digital Craftsman (Developer/Photoshop Engineer/Creator)'**
+
+**`Digital Craftsman (Developer/Photoshop Engineer/Creator)`**
 
 I am a college CS major making my mark in the software development field. All of my projects are made from scratch. I love to code and started when I was a freshman in highschool taking my first CS course. 
 ---
