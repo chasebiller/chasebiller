@@ -1,6 +1,6 @@
 # Chase Biller
 
-** Digital Craftsman (Developer/Photoshop Engineer/Creator)
+**'Digital Craftsman (Developer/Photoshop Engineer/Creator)'**
 
 I am a college CS major making my mark in the software development field. All of my projects are made from scratch. I love to code and started when I was a freshman in highschool taking my first CS course. 
 ---
@@ -15,5 +15,4 @@ I am a college CS major making my mark in the software development field. All of
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 ---
-
 [website]: (https://chase-biller.ghost.io/)
